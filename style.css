@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(to bottom, #fff0f5, #ffe4e1);
+  }
+  
+  section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    transition: all 0.3s ease;
+  }
+  
+  h1, h2 {
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 1px 1px 2px #fff;
+  }
+  
+  iframe {
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  }
+  
+  nav {
+    font-family: 'Poppins', sans-serif;
+  }
+  
